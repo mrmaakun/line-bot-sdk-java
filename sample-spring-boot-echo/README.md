@@ -28,7 +28,8 @@ Deploy this module on Heroku.
 
 Get the Channel access token and Channel secret from the Channel Console.
 
-<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/line-bot-configuration.png?raw=true">
+<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/new_channel_secret.png?raw=true">
+<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/new_access_token.png?raw=true">
 
 ### Step 2
 
