@@ -28,8 +28,8 @@ Deploy this module on Heroku.
 
 Get the Channel access token and Channel secret from the Channel Console.
 
-<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/new_channel_secret.png?raw=true">
-<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/new_access_token.png?raw=true">
+<img src="_assets/new_channel_secret.png?raw=true">
+<img src="_assets/new_access_token.png?raw=true">
 
 ### Step 2
 
@@ -54,4 +54,4 @@ Tap the **Manage App** button and copy the name of your Heroku instance.
 Set the webhook URL for your Channel on the Channel Console using the following URL:
 `https://${YOUR_HEROKU_APP_NAME}.herokuapp.com/callback`
 
-<img src="https://github.com/line/line-bot-sdk-java/blob/master/sample-spring-boot-echo/_assets/put-webhook-url.png?raw=true">
+<img src="_assets/new_webhook.png?raw=true">
